@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+numpy
+pydub
+scikit-image
+ffmpeg-python
